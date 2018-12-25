@@ -1,0 +1,10 @@
+
+
+
+	The graph shows the ride sharing data accumulated during the 2016 year. The graph also shows the data separated by city types. Including the number of rides, number of drivers and total fairs collected during the year. The number of rides, number of drivers  and total fairs collected  have a dramatic difference in every city type.
+
+	The cities are devised in 3 groups; Urban, Suburban and Rural. The graph shows that the Rural cities have the lowest number of drivers, the lowest average fairs collected and the lowest number of rides.The graph also shows the the urban cities have the highest number of drivers, the highest number of rides and the highest average fairs collected. That leaves the Suburban cities in the middle in terms of number of drivers, rides and average fairs collected. 
+
+	In conclussion; the urban cities, with their higher population, make the most use of the ride sharing services. 
+
+	
